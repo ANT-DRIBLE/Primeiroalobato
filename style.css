@@ -1,8 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
 h1{
     text-align: center;
     font-size: 50px;
     color: rgb(255, 0, 0);
 }
 body{
-    background:linear-gradient(to right #dd0c0c #000000 , #a00000)
+    background:linear-gradient(to right #dd0c0c #000000 , #7a1212)
 }
+h1
